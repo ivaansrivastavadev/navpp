@@ -4,13 +4,11 @@ Dead simple fuzzy file/folder navigator in Rust.
 
 ## Install
 
-```
-```
 ```bash
 git clone https://github.com/ivaansrivastavadev/navpp.git
 cd navpp
 cargo build --release
-sudo mv target/release/navpp /usr/local/bin/
+sudo mv bin-latest/navpp /usr/local/bin/
 ```
 
 ## Usage
